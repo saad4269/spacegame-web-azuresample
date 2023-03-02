@@ -1,5 +1,5 @@
+[![Build Status](https://dev.azure.com/digifloat/sample-project-saad/_apis/build/status/saad4269.spacegame-web-azuresample?branchName=build-pipeline)](https://dev.azure.com/digifloat/sample-project-saad/_build/latest?definitionId=16&branchName=build-pipeline)
 
-# Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
